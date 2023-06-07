@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ZbLdr4KMQ2er383g7D1bJS2YcyNOJHsMiomrQDMb6FQ=",
+  "Source": "ConvertHTMLtoPDF",
+  "BasePath": "_content/ConvertHTMLtoPDF",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
